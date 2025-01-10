@@ -1,0 +1,8 @@
+Organize a project into a package with submodules:
+	my_project/
+    ├── calculations/
+    │   ├── __init__.py
+    │   ├── arithmetic.py
+    │   ├── geometry.py
+    └── main.py
+Import functions from arithmetic.py and geometry.py into main.py and use them.

@@ -1,0 +1,5 @@
+Product ID . 1 
+Product's name soap 
+Product's price 18.0 
+Product's stock 100 
+
