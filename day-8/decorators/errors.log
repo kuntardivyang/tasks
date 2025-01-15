@@ -1,0 +1,28 @@
+2025-01-13 06:40:27,043 No. of retries 1 of function wrapper
+2025-01-13 06:40:28,043 No. of retries 2 of function wrapper
+2025-01-13 06:40:29,044 No. of retries 3 of function wrapper
+2025-01-13 06:40:30,045 function exceeds maximum attempts. 
+NoneType: None2025-01-13 06:41:30,171 No. of retries 1 of function wrapper
+2025-01-13 06:41:31,171 No. of retries 2 of function wrapper
+2025-01-13 06:41:32,172 No. of retries 3 of function wrapper
+2025-01-13 06:41:33,172 function exceeds maximum attempts. 
+NoneType: None
+2025-01-13 06:44:52,621 No. of retries 1 of function wrapper
+2025-01-13 06:44:53,622 No. of retries 2 of function wrapper
+2025-01-13 06:44:54,623 No. of retries 3 of function wrapper
+2025-01-13 06:44:55,624 function exceeds maximum attempts. 
+NoneType: None
+2025-01-13 06:44:55,624 Called this func : wrapper
+2025-01-13 06:44:55,625 Called this func : wrapper
+2025-01-13 06:44:57,521 Hello Memoize : 
+2025-01-13 06:44:57,522 Called this func : wrapper
+2025-01-13 06:44:57,522 Hello Memoize : 
+2025-01-13 06:44:57,522 Called this func : wrapper
+2025-01-13 06:44:57,523 Hello Memoize : 
+2025-01-13 06:44:57,523 Called this func : wrapper
+2025-01-13 06:44:57,523 Hello Memoize : 
+2025-01-13 06:44:57,523 Called this func : wrapper
+2025-01-13 06:44:57,523 Hello Memoize : 
+2025-01-13 06:44:57,524 Called this func : wrapper
+2025-01-13 06:44:57,524 Hello Memoize : 
+2025-01-13 06:44:57,524 Called this func : wrapper
